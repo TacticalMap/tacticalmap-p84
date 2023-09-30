@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p84",
+  "id": "tacticalmap-p84",
+  "title": "City barricade",
+  "description": "A street blocked by a barricade at the height of the attack on the city, as well as a version of the map in peacetime. Roofs included.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "city-barricade",
+      "label": "City barricade",
+      "path": "packs/city-barricade.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "city-barricade",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false
+}
