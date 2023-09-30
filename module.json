@@ -28,8 +28,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/TacticalMap/tacticalmap-p84/main/module.json",
+  "download": "https://github.com/TacticalMap/tacticalmap-p84/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
 }
